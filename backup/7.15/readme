@@ -1,0 +1,19 @@
+更改了caculate,使 行数不变
+
+两种计算误差的方法都发现红线误差更大
+
+
+
+
+'''
+k_yellow_p+"\n"+k_yellow+"\n"+k_blue_p+"\n"+k_bule+"\n"+k_red_p+"\n"+k_red+"\n"+s_yellow+"\n"+s_bule+"\n"+s_red,
+220 k_yellow_p
+222 k_yellow
+216 k_blue_p
+216 k_bule
+230 k_red_p
+230 k_red
+222 s_yellow
+216 s_bule
+230 s_red
+'''

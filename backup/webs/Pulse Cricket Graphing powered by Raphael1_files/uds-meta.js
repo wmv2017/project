@@ -1,0 +1,1 @@
+udsMetadata([{"meta":{"sport":"Limited Overs Cricket","overs":"50","version":"1.0","participant_1":"England,England,ENG,023B7A,E62102","participant_2":"Pakistan,Pakistan,PAK,084B01,4B4407","batting_order":"21","last_updated":"1472072999714","description":"1st ODI"}}]);
